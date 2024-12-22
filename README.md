@@ -1,0 +1,1 @@
+# Ajay-data19-Customer-Analysis-and-Risk-Assessment-SQL-PowerBI
