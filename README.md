@@ -1,1 +1,1 @@
-# Ajay-data19-Customer-Analysis-and-Risk-Assessment-SQL-PowerBI
+# Customer Analysis and Risk Assessment for Dynamic Banking Institution
