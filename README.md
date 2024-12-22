@@ -1,2 +1,2 @@
 # Customer Analysis and Risk Assessment for Dynamic Banking Institution
-![vector-img-1-min](https://github.com/user-attachments/assets/18d1ec6d-a0dd-44f7-a6c3-293c342b5069)
+![images (2)](https://github.com/user-attachments/assets/0d27edfa-6daf-47d0-ac7d-8448dd9480ad)
