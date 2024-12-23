@@ -171,7 +171,7 @@ Explore the interactive Power BI dashboard created as part of the project! The d
 
 **Risk Assessment**
 
-![Screenshot 2024-12-21 230301](https://github.com/user-attachments/assets/be079fb1-c75a-4fdd-8489-d5eda27871e8)
+![Screenshot 2024-12-23 160338](https://github.com/user-attachments/assets/97fe6057-bbad-4ec9-b677-b3026af1d389)
 
 **[Click here to access the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjY2ZmIyZTctNjhiNS00ODViLTg5MWMtMzI0NDZjMjhlZWU4IiwidCI6ImY0M2MzMTgyLTcxZjAtNGRjOS04YjA0LTc0OTMwZTNmOGNkYSJ9)** 
 
