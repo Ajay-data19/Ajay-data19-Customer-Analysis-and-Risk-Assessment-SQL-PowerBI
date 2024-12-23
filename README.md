@@ -163,12 +163,17 @@ Explore the interactive Power BI dashboard created as part of the project! The d
 
 **Overview Page**
 
+![Screenshot 2024-12-21 230145](https://github.com/user-attachments/assets/997576d4-1644-4302-a195-babeaa906054)
 
 **Customer Analysis**
 
+![Screenshot 2024-12-21 230226](https://github.com/user-attachments/assets/6f07e5dd-1efa-4bbc-afe6-79d6123afe44)
 
 **Risk Assessment**
 
+![Screenshot 2024-12-21 230301](https://github.com/user-attachments/assets/be079fb1-c75a-4fdd-8489-d5eda27871e8)
+
+**[Click here to access the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjY2ZmIyZTctNjhiNS00ODViLTg5MWMtMzI0NDZjMjhlZWU4IiwidCI6ImY0M2MzMTgyLTcxZjAtNGRjOS04YjA0LTc0OTMwZTNmOGNkYSJ9)** 
 
 
 
