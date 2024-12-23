@@ -237,12 +237,26 @@ Developed the ability to translate complex data into actionable insights, suppor
 - **Interactive Dashboard** : Access the interactive Power BI dashboard through the link provided in the 'Dashboard Preview' section of this README file.
 
 ## Database Schema
+![example_data_model](https://github.com/user-attachments/assets/2e639555-a48c-4752-a6b4-5f7a517d6774)
+
+## Tech Stack
+`Power Query` Employed for data adjustments and transformations.
+
+`MySQL` Utilized for Exploratorary data analysis and querying.
+
+`Power BI` Leveraged to create comprehensive reports and visualizations.
+
+`DAX (Data Analysis Expressions)` Applied for creating  necessary measures and calculations.
 
 
+## License
+This project is licensed under the MIT License, allowing you to use, modify, and distribute the code and visuals while maintaining the original license terms.
 
+---
 
+For questions or feedback, please contact: ajaysonkatar@gmail.com
 
-
+Enjoy exploring the project!
 
 
 
