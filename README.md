@@ -175,5 +175,78 @@ Explore the interactive Power BI dashboard created as part of the project! The d
 
 **[Click here to access the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjY2ZmIyZTctNjhiNS00ODViLTg5MWMtMzI0NDZjMjhlZWU4IiwidCI6ImY0M2MzMTgyLTcxZjAtNGRjOS04YjA0LTc0OTMwZTNmOGNkYSJ9)** 
 
+## Key Insights
+
+- The top merchant categories by transaction amount include Money Transfer, Grocery Stores, and Wholesale Clubs, reflecting essential spending trends.
+
+- Debit Cards account for 57.52% of transaction amounts, dominating over Credit Cards (39.38%) and Prepaid Debit Cards (3.10%).
+
+- Spending via Chip Transactions remains the highest across all years, with steady contributions from Online and Swipe Transactions.
+
+- Customers aged 31-50 years form the largest demographic, followed by 51-70 years, with a balanced gender distribution across all groups.
+
+- The Mid-Income Group has the highest concentration of credit card holders (1.48k), while the High-Income Group remains significantly smaller (19).
+
+- Customers with credit scores <700 contribute to 63% of the transaction amount, indicating financial instability among a significant customer segment.
+
+- High-risk transactions are primarily observed in Telecommunication Services, Utilities, and Wholesale Clubs, with spikes in Quarter 2 and 3 of recent years.
+
+- An impressive 98.26% of transactions are error-free, though errors such as Insufficient Balance and Bad PIN require attention.
+
+## Recommendations
+
+- Focus on high-performing merchant categories such as Grocery Stores and Wholesale Clubs to capitalize on customer preferences.
+
+- Introduce targeted campaigns to increase the adoption of Prepaid Debit Cards, which currently hold the smallest market share.
+
+- Develop programs to improve financial health for customers with credit scores <700, particularly those aged 18-50 years.
+
+- Strengthen fraud detection systems during Quarter 2 and 3, with specific attention to high-risk merchant categories.
+
+- Enhance transaction systems to address frequent issues like Insufficient Balance and Bad PIN errors.
+
+- Leverage Power BI dashboards to monitor risk zones and spending trends dynamically, enabling timely interventions.
+
+## Learnings
+`Data Integration`
+
+Effectively combined and processed data from multiple sources, ensuring seamless integration for analysis despite initial inconsistencies.
+
+`Advanced SQL and Power BI Techniques`
+
+Enhanced proficiency in SQL for exploratory data analysis and Power BI for building interactive dashboards, showcasing the ability to extract, transform, and visualize data effectively.
+
+`Risk Assessment Understanding`
+
+Gained a deeper understanding of customer behavior, spending trends, and risk assessment, uncovering patterns critical for financial institutions.
+
+`Error Analysis and Mitigation`
+
+Learned to identify and address transactional errors like insufficient balances and bad PINs, emphasizing the importance of operational accuracy.
+
+`Actionable Decision-Making`
+
+Developed the ability to translate complex data into actionable insights, supporting stakeholder decisions with clear, data-driven recommendations.
+
+## Files Information
+
+- **Dataset**: The fully cleaned dataset is available in the main section for reference and further analysis.
+ 
+- **SQL Analysis File**: The SQL queries and analysis conducted during the project are included in the file for review and reuse.
+  
+- **Interactive Dashboard** : Access the interactive Power BI dashboard through the link provided in the 'Dashboard Preview' section of this README file.
+
+## Database Schema
+
+
+
+
+
+
+
+
+
+
+
 
 
