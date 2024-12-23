@@ -1,5 +1,5 @@
 # Customer Analysis and Risk Assessment 
-![3651295](https://github.com/user-attachments/assets/6c6fabce-f0e1-4554-8b83-fd4d30b43b55)
+![Screenshot 2024-12-23 154050](https://github.com/user-attachments/assets/24171bff-a91e-4362-ac12-70c050a23611)
 
 ## Project Overview
 The Aurora Bank KYC Analysis and Risk Assessment project utilizes advanced data analytics and visualization to uncover key insights within customer, transaction, and card usage datasets. By employing robust analytics and interactive dashboards, this project aids stakeholders in understanding customer behavior, identifying risks, and optimizing financial strategies.
